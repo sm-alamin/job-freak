@@ -2,7 +2,7 @@ import banner from '../../assets/banner.svg';
 const Home = () => {
   return (
     <>
-      <div className="flex flex-col lg:flex-row h-full lg:h-screen bg-slate-100 dark:bg-slate-400 justify-between items-center gap-5 mt-5">
+      <div className="flex flex-col lg:flex-row h-full lg:h-screen bg-slate-100 dark:bg-slate-400 justify-between items-center gap-5">
       <div>
           <img src={banner} alt=""/>
       </div>
